@@ -1,4 +1,4 @@
-# AaaH
+# AaaH!
 Ai as a Hotkey!
 
 Tool:
